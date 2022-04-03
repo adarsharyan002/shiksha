@@ -9,26 +9,19 @@
     font-weight: 500;
 }
 
-/* table {
-    background: rgba(241, 242, 244, .51);
-} */
-
 .child_1 {
     width: 190px;
     height: 240px;
-    /* background: rgb(214, 164, 164); */
 }
 
 .child_2 {
     width: 225px;
     height: 240px;
-    /* background: rgb(214, 164, 164); */
 }
 
 .child_3 {
     width: 260px;
     height: 240px;
-    /* background: rgb(214, 164, 164); */
 }
 
 .container_1 {
@@ -41,7 +34,6 @@
 }
 
 .stars {
-    /* text-align: center; */
     font-size: 12px;
 }
 
