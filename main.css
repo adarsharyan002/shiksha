@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
-.width{
-    width: 100%;
+.border-box{
+    box-sizing: border-box;
+}
+.fit-content{
+    height:2rem;
+}
+label{
+    cursor: pointer;
 }
